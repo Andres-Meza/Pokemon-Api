@@ -1,0 +1,22 @@
+.button {
+	background-color: #4caf50;
+	color: white;
+	border: none;
+	padding: 0.5rem 1rem;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: #45a049;
+}
+
+.pokemon-image {
+	width: 120px;
+	height: 120px;
+}
+
+.title {
+	color: #4caf50;
+	text-align: center;
+}

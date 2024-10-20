@@ -1,0 +1,16 @@
+body{
+  background-color: #393e42;
+}
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #2a75bb;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 2.5rem;
+}
